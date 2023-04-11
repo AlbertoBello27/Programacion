@@ -50,3 +50,5 @@ print (f"Hola mi nombre es {nombre}")
 
 nombre, apellido = "Ignacio" , "Soto"
 print(f"Mi nombre es {nombre} {apellido}")
+
+#USO DE PRINT
