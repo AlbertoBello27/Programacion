@@ -30,3 +30,5 @@ print (num)
 a = 1+2+3+4+5
 print (a)
 print (a**2)
+
+#VARIABLES, MATEMATICA BASICA,OTROS TIPOS DE DATOS
