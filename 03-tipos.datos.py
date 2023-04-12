@@ -115,3 +115,5 @@ print(list(range(7)))
 a = 12
 print(a+a)
 print(float(a+a))
+
+#TRANFORMACIONES NUMERICAS, STRING, LISTAS, INDICES
