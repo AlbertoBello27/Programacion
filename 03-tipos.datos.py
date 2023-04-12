@@ -24,7 +24,7 @@ print(f"La asignatura de {asignatura} corresponde a la carrera de {carrera}")
 
 #1: str() = cadena de caracteres
 #2: int() = numeros enteros
-#3: float() = 
+#3: float() = numero decimales 
 #4: len() = cantidad de elemntos en la lista
 #5: type() = tipo de dato
 #6: count() = Determina la cantidad de ocurrencia de un mimso elemento
@@ -111,3 +111,7 @@ print("Suma de listas", a + b + c)
 print(list(a))
 print(list(range(10)))
 print(list(range(7)))
+
+a = 12
+print(a+a)
+print(float(a+a))
