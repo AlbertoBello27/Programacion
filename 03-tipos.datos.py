@@ -25,7 +25,7 @@ print(f"La asignatura de {asignatura} corresponde a la carrera de {carrera}")
 #1: str() = cadena de caracteres
 #2: int() = numeros enteros
 #3: float() = numero decimales 
-#4: len() = cantidad de elemntos en la lista
+#4: len() = cantidad de elementos en la lista
 #5: type() = tipo de dato
 #6: count() = Determina la cantidad de ocurrencia de un mimso elemento
 
@@ -109,11 +109,30 @@ print("Suma de listas", a + b)
 print("Suma de listas", a + b + c)
 
 print(list(a))
-print(list(range(10)))
+print(list(range(10))) #CREA UNA LISTA DE RANGO 10
 print(list(range(7)))
+print(list("JavaScript")) #TRANSFORMA EL STR "JavaScript" EN UNA LISTA
 
 a = 12
 print(a+a)
 print(float(a+a))
 
 #TRANFORMACIONES NUMERICAS, STRING, LISTAS, INDICES
+
+print(f"hola \n")
+
+print("la variable \"carrera\" es de tipo:", type(carrera))
+
+print("\n") #SALTO DE LINEA
+
+comida = ["carne","papas","peces"]
+print(comida)
+
+comida [1] = "papas fritas"
+print(comida)
+
+comida [2] = "sushi"
+print (comida)
+
+comida[0] = "pollo"
+print(comida)
