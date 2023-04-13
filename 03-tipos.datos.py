@@ -136,3 +136,5 @@ print (comida)
 
 comida[0] = "pollo"
 print(comida)
+
+comida[0] = "vaca"
