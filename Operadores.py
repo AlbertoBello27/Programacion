@@ -1,6 +1,6 @@
 #OPERADORES ARITMETICOS
 a=1
-b=2
+b=3
 print("esto es suma: ",a+b)
 print("esto es resta: ",a-b)
 print("esto es multiplicacion: ",a*b)
